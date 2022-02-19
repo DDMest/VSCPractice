@@ -5,3 +5,7 @@ body{
 p{
     color: rgb(221, 221, 221);
 }
+
+img{
+    border: 2pt solid #00ff00;
+}
